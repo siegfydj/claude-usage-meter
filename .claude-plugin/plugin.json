@@ -1,0 +1,1 @@
+{ "name": "usage-meter", "version": "0.1.0", "description": "對話框上方常駐的 Claude 方案用量計量表（5 小時與每週額度），自動更新", "types": "./types/index.d.ts" }
